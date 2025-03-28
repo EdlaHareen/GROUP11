@@ -40,13 +40,13 @@ To view the dashboard locally:
 - │── /assets  
 - │   ├── dashboard_screenshot.png  
 - │── /reports  
-- │   ├── Smart_Hiring_Analytics.pbix  
+- │   ├── Smart_Hiring_Analytics.pbix   
 - │── /docs  
 - │   ├── project_proposal.pdf  
 - │── /scripts  
 - │   ├── data_processing.py  
-- │── README.md  ```
-
+- │── README.md
+```
 
 
 ## 🌟 Features  
