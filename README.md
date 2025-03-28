@@ -33,18 +33,20 @@ To view the dashboard locally:
 3. Navigate using buttons on the left for different insights.
 
 ## 📂 Project Structure
-   /job-market-dashboard
-│── /data
-│   ├── employability_analytics_cleaned.csv 
-│── /assets
-│   ├── dashboard_screenshot.png             
-│── /reports
-│   ├── Smart_Hiring_Analytics.pbix          
-│── /docs
-│   ├── project_proposal.pdf                 
-│── /scripts
-│   ├── data_processing.py                    
-│── README.md 
+- /job-market-dashboard  
+- │── /data  
+- │   ├── employability_analytics_cleaned.csv  
+- │── /assets  
+- │   ├── dashboard_screenshot.png  
+- │── /reports  
+- │   ├── Smart_Hiring_Analytics.pbix  
+- │── /docs  
+- │   ├── project_proposal.pdf  
+- │── /scripts  
+- │   ├── data_processing.py  
+- │── README.md  
+
+
 
 ## 🌟 Features  
 ✅ Salary Trends by location, industry, and role  
