@@ -3,7 +3,7 @@
 An interactive Power BI dashboard providing deep insights into salary trends, job market dynamics, and in-demand skills.
 
 ## 🚀 Project Description  
-The **Smart Hiring Analytics Dashboard** is designed to help job seekers, recruiters, and analysts explore crucial employment data. It provides real-time insights into salary distributions by industry, location, and job role. Users can track job market trends, identify top hiring companies, and analyze skill demands across different sectors. The dashboard includes interactive filters for **Location, Industry, and Company Size**, enabling customized analysis. With intuitive navigation buttons, users can seamlessly switch between different views for a comprehensive experience.
+The **Smart Hiring Analytics Dashboard** is designed to help job seekers, recruiters, and analysts explore crucial employment data. It provides real-time insights into salary distributions by industry, location, and job role. Users can track job market trends, identify top hiring companies, and analyze skill demands across different sectors. The dashboard includes interactive filters for **Location, Industry, and Company Size**, enabling customized analysis. With navigation buttons, users can seamlessly switch between different views for a comprehensive experience.
 
 ## 📌 Table of Contents  
 - [Installation](#installation)  
