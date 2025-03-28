@@ -33,6 +33,7 @@ To view the dashboard locally:
 3. Navigate using buttons on the left for different insights.
 
 ## 📂 Project Structure
+```
 - /job-market-dashboard  
 - │── /data  
 - │   ├── employability_analytics_cleaned.csv  
@@ -44,7 +45,7 @@ To view the dashboard locally:
 - │   ├── project_proposal.pdf  
 - │── /scripts  
 - │   ├── data_processing.py  
-- │── README.md  
+- │── README.md  ```
 
 
 
