@@ -57,7 +57,8 @@ To view the dashboard locally:
 ✅ Navigation Buttons for easy access  
 
 ## 📷 Dashboard Preview  
-![image](https://github.com/user-attachments/assets/0f79dea7-05f8-46f2-971f-2a8b5423fd07)
+![image](https://github.com/user-attachments/assets/68c892fa-42f0-4f24-933f-4d22575ab210)
+
 
 
 ## 🤝 Contributing  
